@@ -1,4 +1,4 @@
 ***Sonia Yanet Alvarado Reyes
-\n Ejercicios del Módulo 1
-\n Profesor: Cuauhtemoc H.C.
-\n Diplomado Superior en Redes Neuronales 2026-A***
+Ejercicios del Módulo 1
+Profesor: Cuauhtemoc H.C.
+Diplomado Superior en Redes Neuronales 2026-A***
